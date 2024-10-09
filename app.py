@@ -1,8 +1,8 @@
 gitdef addition(a,b):
     return a+b
 
-    gitdef substraction(a,b,c):
-    return a-b-c
+    gitdef substraction(a,b,e):
+    return a-b-e
     
 
 def division(a,b):
